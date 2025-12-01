@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "TVアニメ「僕の心のヤバイやつ」第２期ノンクレジットOP映像｜あたらよ「「僕は...」」",
+  "base_artist": "tv asahi  animation YouTubeチャンネル",
+  "createdAt": "2025-12-01T11:09:32.788058Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SHOCK YOUR EYES",
+      "artist": "志熊理科(福圓美里)",
+      "has_synced": false,
+      "path": "select/pl_01_SHOCK_YOUR_EYES_志熊理科(福圓美里).txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "TVアニメ「宝石の国」OPテーマ「鏡面の波」",
+      "artist": "志熊理科(福圓美里)",
+      "has_synced": false,
+      "path": "select/pl_02_TVアニメ「宝石の国」OPテーマ「鏡面の波」_志熊理科(福圓美里).txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "TVアニメ「弱虫ペダル GLOLY LINE」OPテーマ 僕の声 (TV size)",
+      "artist": "志熊理科(福圓美里)",
+      "has_synced": false,
+      "path": "select/pl_03_TVアニメ「弱虫ペダル_GLOLY_LINE」OPテーマ_僕の声_(TV_size)_志熊理科(福圓美里).txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "TVアニメ「弱虫ペダル GLOLY LINE」EDテーマ Carry the Hope (TV size)",
+      "artist": "志熊理科(福圓美里)",
+      "has_synced": false,
+      "path": "select/pl_04_TVアニメ「弱虫ペダル_GLOLY_LINE」EDテーマ_Carry_the_Hope_(TV_size)_志熊理科(福圓美里).txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "TVアニメ「からかい上手の高木さん」エンディングテーマ 気まぐれロマンティック",
+      "artist": "志熊理科(福圓美里)",
+      "has_synced": false,
+      "path": "select/pl_05_TVアニメ「からかい上手の高木さん」エンディングテーマ_気まぐれロマンティック_志熊理科(福圓美里).txt"
+    }
+  ]
+}
